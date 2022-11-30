@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "566476774110",
+    "project_id": "analog-reef-369923",
+    "storage_bucket": "analog-reef-369923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566476774110:android:5283c63e36b1e7db69804f",
+        "android_client_info": {
+          "package_name": "com.example.year_book_photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566476774110-t1t42o02d52jvvvc97d4d7p49bs49p1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XLy-yRdNw1INkKbextq0nJFqOc_1Mj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566476774110-t1t42o02d52jvvvc97d4d7p49bs49p1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566476774110:android:182460d755dac81669804f",
+        "android_client_info": {
+          "package_name": "com.year_book_photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566476774110-u8c5u85pree7smj23hcul2bekcsi0p87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.year_book_photo",
+            "certificate_hash": "61a99906fdbb29d80cd8e31a9f42cea01270f841"
+          }
+        },
+        {
+          "client_id": "566476774110-t1t42o02d52jvvvc97d4d7p49bs49p1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2XLy-yRdNw1INkKbextq0nJFqOc_1Mj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566476774110-t1t42o02d52jvvvc97d4d7p49bs49p1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
